@@ -1,0 +1,13 @@
+torch
+transformers
+huggingface_hub
+flash-attn
+numpy
+pandas
+scipy
+scikit-learn
+networkx
+matplotlib
+tqdm
+psutil
+webdataset
