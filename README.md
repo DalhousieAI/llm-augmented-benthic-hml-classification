@@ -1,4 +1,4 @@
-# GHiML
+# GHiML - A VLM-Guided Hierarchical Multi-Label Framework for Benthic Imagery Classification
 
 Code for variable proposal, captioning, embedding and hierarchical multi-label training.
 
